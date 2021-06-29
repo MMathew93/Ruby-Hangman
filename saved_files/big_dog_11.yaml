@@ -1,0 +1,17 @@
+--- !ruby/object:Game
+player_option:
+random_word: grandstand
+hidden_word:
+- _
+- _
+- _
+- _
+- _
+- s
+- t
+- _
+- _
+- _
+guessed_letters:
+- e
+misses: 6

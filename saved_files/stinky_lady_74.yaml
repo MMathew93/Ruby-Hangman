@@ -1,0 +1,16 @@
+--- !ruby/object:Game
+player_option:
+random_word: reinfect
+hidden_word:
+- r
+- e
+- _
+- n
+- _
+- e
+- _
+- t
+guessed_letters:
+- s
+- l
+misses: 5
